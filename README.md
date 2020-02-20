@@ -1,3 +1,5 @@
+<img align="right" src="./resources/ludii-logo-64x64.png">
+
 # Ludii AI Competition - COG 2020
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
