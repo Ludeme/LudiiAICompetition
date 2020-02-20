@@ -55,6 +55,7 @@ For the IEEE CoG 2020 edition of the Ludii AI competition, all games will be gua
 - Sequential
 - Deterministic
 - Fully observable
+
 These constraints are expected to be relaxed in future editions or tracks of the competition. Note that we may still have asymmetric games, and we may have games with a "Swap rule" (where after the first move, the second player may opt to switch roles and steal the opening move).
 
 ## Implementing Agents
