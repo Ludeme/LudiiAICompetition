@@ -8,7 +8,7 @@
 ## News
 - 21 February 2020: This repository made public.
 
-To stay up-to-date with any new announcements about Ludii or the Ludii AI competition, keep any eye out on:
+To stay up-to-date with any new announcements about Ludii or the Ludii AI competition, keep an eye out on:
 1. Our twitter: https://twitter.com/ludiigames
 2. Our forums: https://ludii.games/forums/forumdisplay.php?fid=19
 
