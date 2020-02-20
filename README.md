@@ -86,7 +86,7 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 ## Competition Rules
 - 20 games will be selected by the competition organisers, and not revealed to any participants.
 - Submitted agents will be required to play each of these games against every other agent, as both the first and second player. This means that every entry will play 40 * (N - 1) matchups, where N denotes the number of submitted entries. Depending on the number of submissions we receive, this process may be run multiple times to give a more robust result.
-- The win-rate for each agent across all matchups that it plays will determine its final ranking.
+- The win-rate for each agent across all matchups that it plays will determine its final ranking. Draws count as half a win for each of the two players.
 - For each of the 20 games, the competition organisers will pick an amount of thinking time between 1 and 5 seconds. All entries in all matchups using this game are allowed to use this many seconds per move. Agents that fail to return a move, or return an illegal move, within this period will have a random move made for them. 
 - Agents will have 10 seconds to initialise themselves between when a new game starts, and when they must make their first move (setup time).
 - The process running your agent will have 3GB RAM available.
