@@ -28,8 +28,6 @@ To stay up-to-date with any new announcements about Ludii or the Ludii AI compet
 ## Summary
 The Ludii AI Competition is a general game playing competition focussed on developing agents that can play a wide variety of board, card, dice and tile games. This competition will use Ludii, a recently developed general game system, to provide the necessary games and API. Games will be provided in the Ludii .lud game description format. The current version of Ludii includes over 200 games, with new games being added frequently. Submitted agents will play against all other competition entrants on a selected set of 20 games in a round-robin format. These games will not be named or provided to the agents beforehand. Agents will have a set amount of time, typically a few seconds, to make each move. The agent that achieves the highest average win-rate across all games will win the competition.
 
----
-
 ## Important Links
 - Main Ludii website: https://ludii.games/
 - Ludii competition repository: https://github.com/Ludeme/LudiiAICompetition
@@ -37,16 +35,12 @@ The Ludii AI Competition is a general game playing competition focussed on devel
 - Ludii competition forum: https://ludii.games/forums/forumdisplay.php?fid=19
 - IEEE COG competitions website: http://ieee-cog.org/2020/competitions_conference 
 
----
-
 ## Important Dates
 - 15 May 2020: Submission deadline for Competition Papers at IEEE COG 2020: http://ieee-cog.org/2020/cfp  (note that papers about entries to this competition are eligible).
 - 2 August 2020: Early submission deadline for agents (we will test agents submitted prior to this date and notify you of any technical issues encountered).
 - 9 August 2020: Final submission deadline for agents.
 - 17 August 2020: Submission deadline for short summary about algorithms / techniques used by the agent.
 - 24-27 August 2020: IEEE COG 2020 + Announcements of results.
-
----
 
 ## Competition Games
 The competition will use a set of 20 different (variants of) games. These will all be implemented in Ludii’s .lud format, and run using Ludii. These may or may not be games already included in public releases of Ludii. The games will not be revealed to any entrants prior to the competition, but will be published -- in their .lud formats -- after the competition. 
@@ -60,8 +54,6 @@ For the IEEE COG 2020 edition of the Ludii AI competition, all games will be gua
 - Deterministic
 - Fully observable
 These constraints are expected to be relaxed in future editions or tracks of the competition. Note that we may still have asymmetric games, and we may have games with a "Swap rule" (where after the first move, the second player may opt to switch roles and steal the opening move).
-
----
 
 ## Implementing Agents
 All agents are expected to extend the “AI” abstract class provided by Ludii. At this point in time, this means that agents are expected to be implemented in Java. We hope to make a similar Python API available prior to the competition, but cannot currently give any indication of when this will be ready or guarantee that it will be supported by the Ludii AI Competition at IEEE COG 2020. 
@@ -78,8 +70,6 @@ Whenever an agent is expected to make a move, it can:
 
 This API for agents is similar to that used by the planning tracks of the General Video Game AI competitions in past years.
 
----
-
 ## Submitting Agents
 We require entrants to submit the source code of their agents -- not just compiled agents. This is to enable us to investigate what an agent does if anything suspicious happens. For example, we may want to make sure that an agent does not recognise and give free wins to a friend’s submission. We will not share this source code with third parties, but do encourage entrants to open-source their entries if possible!
 
@@ -89,8 +79,6 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 - Which class to instantiate for your agent (if your source code includes multiple classes that extend the AI abstract class).
 - Names + affiliations of all authors.
 - Name of your agent.
-
----
 
 ## Competition Rules
 - 20 games will be selected by the competition organisers, and not revealed to any participants.
@@ -102,14 +90,10 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 - All entries must function on Linux.
 - Entries are permitted to write files to their current working directory, but these will not be preserved between match-ups (i.e. no learning from game-to-game).
 
----
-
 ## Contact Info
 The preferred way to contact us with any suggestions or questions about the competition is to use the section for competitions on the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=19). This also enables other interested people to see the responses.
 
 Alternatively, suggestions and questions may be emailed to: ludii.games@gmail.com 
-
----
 
 ## Acknowledgements
 
