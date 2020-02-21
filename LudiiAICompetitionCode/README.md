@@ -1,7 +1,3 @@
-# Ludii AI Competition Code
-
----
-
 ## Important Notes on Ludii API Backwards Compatibility
 
 This repository, as well as the [Ludii Example AI repository](https://github.com/Ludeme/LudiiExampleAI),
@@ -13,6 +9,8 @@ and only require minor changes, but will likely require more than 0 changes.
 From Ludii version 1.0.0 onwards, we aim to preserve backwards compatibility.
 
 ---
+
+# Ludii AI Competition Code
 
 This part of the repository contains some utility code that entrants of Ludii AI Competitions
 may find useful. We may occasionally update it with extra utilities. For instance, we plan to
