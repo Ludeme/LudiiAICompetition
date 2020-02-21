@@ -28,7 +28,7 @@ To stay up-to-date with any new announcements about Ludii or the Ludii AI compet
 ---
 
 ## Summary
-The Ludii AI Competition is a general game playing competition focussed on developing agents that can play a wide variety of board, card, dice and tile games. This competition will use Ludii, a recently developed general game system, to provide the necessary games and API. Games will be provided in the Ludii .lud game description format. The current version of Ludii includes over 200 games, with new games being added frequently. Submitted agents will play against all other competition entrants on a selected set of 20 games in a round-robin format. These games will not be named or provided to the agents beforehand. Agents will have a set amount of time, typically a few seconds, to make each move. The agent that achieves the highest average win-rate across all games will win the competition.
+The Ludii AI Competition is a **general game playing competition** focussed on developing agents that can play a wide variety of board, card, dice and tile games. This competition will use Ludii, a recently developed general game system, to provide the necessary games and API. Games will be provided in the Ludii .lud game description format. The current version of Ludii includes over 200 games, with new games being added frequently. Submitted agents will play against all other competition entrants on a selected set of 20 games in a round-robin format. These games will not be named or provided to the agents beforehand. Agents will have a set amount of time, typically a few seconds, to make each move. The agent that achieves the highest average win-rate across all games will win the competition.
 
 ## Important Links
 - Main Ludii website: https://ludii.games/
@@ -71,7 +71,7 @@ Whenever an agent is expected to make a move, it can:
 - Query any game state for information about that state -- such as the player to move in that state, whether or not it is already over (and what the outcome is), etc.
 - Return the move that it wishes to make.
 
-This API for agents is similar to that used by the planning tracks of the General Video Game AI competitions in past years.
+This API for agents is similar to that used by the planning tracks of the [General Video Game AI competitions](http://gvgai.net/) in past years.
 
 ## Submitting Agents
 We require entrants to submit the source code of their agents -- not just compiled agents. This is to enable us to investigate what an agent does if anything suspicious happens. For example, we may want to make sure that an agent does not recognise and give free wins to a friend’s submission. We will not share this source code with third parties, but do encourage entrants to open-source their entries if possible!
