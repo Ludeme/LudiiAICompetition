@@ -104,6 +104,7 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 - The process running your agent will have 3GB RAM available.
 - All entries must function on Linux.
 - Entries are permitted to write files to their current working directory, but these will not be preserved between match-ups (i.e. no learning from game-to-game).
+- We will enforce a turn limit, after which matchups are declared a draw, to avoid infinitely-long matchups. This limit will be sufficiently high that it shouldn't be reached by "reasonable" play. The forward model provided to agents will be aware of this limit, which means that forward planning agents will automatically be aware of the existence of this limit without requiring any extra implementation effort for entrants.
 
 ## Contact Info
 The preferred way to contact us with any suggestions or questions about the competition is to use the section for competitions on the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=19). This also enables other interested people to see the responses.
