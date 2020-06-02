@@ -1,7 +1,8 @@
 package competition;
 
 import game.Game;
-import player.GameLoader;
+import main.FileHandling;
+import player.utils.loading.GameLoader;
 
 /**
  * Some utility methods for the Ludii AI Competition planned
@@ -56,17 +57,12 @@ public class IeeeCog2020
 	 */
 	public static void main(final String[] args)
 	{
-		final String[] allPaths = GameLoader.listGames();
+		final String[] allPaths = FileHandling.listGames();
 		
-		System.out.println("Warning: the following code is known to include one false positive");
-		System.out.println("in the generated list: War (a card game). This will be corrected with");
-		System.out.println("the release of Ludii version 1.0.0.");
-		System.out.println();
 		System.out.println("Valid games in Ludii.jar for the Ludii AI Competition at IEEE CoG 2020:");
 		for (final String path : allPaths)
 		{
 			final Game game = GameLoader.loadGameFromName(path);
-			game.create(0);
 			
 			if (isGameValid(game))
 				System.out.println(path);

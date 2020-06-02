@@ -6,6 +6,8 @@
 [![twitter](https://img.shields.io/twitter/follow/ludiigames?style=social)](https://twitter.com/intent/follow?screen_name=ludiigames)
 
 ## News
+- 2 June 2020: Updated repository for Ludii version 0.9.3.
+- 26 May 2020: We have a new [page with Ludii Tutorials](https://ludiitutorials.readthedocs.io/), including tutorials for AI development!
 - 21 February 2020: This repository made public.
 
 To stay up-to-date with any new announcements about Ludii or the Ludii AI competition, keep an eye out on:
@@ -17,7 +19,7 @@ To stay up-to-date with any new announcements about Ludii or the Ludii AI compet
 ## Important Notes on Ludii API Backwards Compatibility
 
 This repository, as well as the [Ludii Example AI repository](https://github.com/Ludeme/LudiiExampleAI),
-are written for the latest public pre-release of Ludii available at the time of this writing: Ludii 0.6.0.
+are written for the latest public pre-release of Ludii available at the time of this writing: Ludii 0.9.3.
 At this point, **we cannot guarantee that the API provided by Ludii in future versions will be fully backwards
 compatible**. We do not expect any drastic changes, and upgrades to future versions should be relatively easy
 and only require minor changes, but will likely require more than 0 changes.
@@ -48,6 +50,7 @@ The Ludii AI Competition is a **general game playing competition** focussed on d
 - Ludii example AI repository: https://github.com/Ludeme/LudiiExampleAI 
 - Ludii competition forum: https://ludii.games/forums/forumdisplay.php?fid=19
 - IEEE CoG competitions website: http://ieee-cog.org/2020/competitions_conference 
+- Ludii Tutorials: https://ludiitutorials.readthedocs.io/
 
 ## Important Dates
 - 15 May 2020: Submission deadline for Competition Papers at IEEE CoG 2020: http://ieee-cog.org/2020/cfp  (note that papers about entries to this competition are eligible).

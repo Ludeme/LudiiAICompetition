@@ -1,7 +1,7 @@
 ## Important Notes on Ludii API Backwards Compatibility
 
 This repository, as well as the [Ludii Example AI repository](https://github.com/Ludeme/LudiiExampleAI),
-are written for the latest public pre-release of Ludii available at the time of this writing: Ludii 0.6.0.
+are written for the latest public pre-release of Ludii available at the time of this writing: Ludii 0.9.3.
 At this point, **we cannot guarantee that the API provided by Ludii in future versions will be fully backwards
 compatible**. We do not expect any drastic changes, and upgrades to future versions should be relatively easy
 and only require minor changes, but will likely require more than 0 changes.
