@@ -6,6 +6,7 @@
 [![twitter](https://img.shields.io/twitter/follow/ludiigames?style=social)](https://twitter.com/intent/follow?screen_name=ludiigames)
 
 ## News
+- 8 June 2020: Officially fixed the version of Ludii to be used at the CoG 2020 competition at Ludii 0.9.3.
 - 2 June 2020: Updated repository for Ludii version 0.9.3.
 - 26 May 2020: We have a new [page with Ludii Tutorials](https://ludiitutorials.readthedocs.io/), including tutorials for AI development!
 - 21 February 2020: This repository made public.
@@ -13,6 +14,9 @@
 To stay up-to-date with any new announcements about Ludii or the Ludii AI competition, keep an eye out on:
 1. Our twitter: https://twitter.com/ludiigames
 2. Our forums: https://ludii.games/forums/forumdisplay.php?fid=19
+
+**Note: if you are planning to participate, we would appreciate already sending us an email just to inform us of that.**
+This can allows us to get a rough idea of how many submissions to expect.
 
 ---
 
