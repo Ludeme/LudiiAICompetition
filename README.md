@@ -10,7 +10,7 @@
 
 To stay up-to-date with any new announcements about Ludii or the Ludii AI competition, keep an eye out on:
 1. Our twitter: https://twitter.com/ludiigames
-2. Our forums: https://ludii.games/forums/forumdisplay.php?fid=19
+2. Our forums: https://ludii.games/forums/forumdisplay.php?fid=26
 
 **Note: if you are planning to participate, we would appreciate already sending us an email just to inform us of that.**
 This can allows us to get a rough idea of how many submissions to expect.
@@ -109,7 +109,7 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 - We will enforce a turn limit, after which matchups are declared a draw, to avoid infinitely-long matchups. This limit will be sufficiently high that it shouldn't be reached by "reasonable" play. The forward model provided to agents will be aware of this limit, which means that forward planning agents will automatically be aware of the existence of this limit without requiring any extra implementation effort for entrants.
 
 ## Contact Info
-The preferred way to contact us with any suggestions or questions about the competition is to use the section for competitions on the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=19). This also enables other interested people to see the responses.
+The preferred way to contact us with any suggestions or questions about the competition is to use the section for competitions on the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=26). This also enables other interested people to see the responses.
 
 Alternatively, suggestions and questions may be emailed to: ludii.games@gmail.com 
 
