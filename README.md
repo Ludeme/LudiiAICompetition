@@ -54,7 +54,7 @@ The Ludii AI Competition is a **general game playing competition** focussed on d
 
 ## Important Dates
 - 28 May 2021: Submission deadline for Competition Papers at IEEE CoG 2021: http://ieee-cog.org/2021/cfp  (note that papers about entries to this competition are eligible).
-- 27 July 2021: Early submission deadline for agents (we will test agents submitted prior to this date and notify you of any technical issues encountered).
+- 27 July 2021: Early submission deadline for agents (we will test agents submitted prior to this date and notify you of any technical issues encountered). Agents can also be submitted before this date for additional testing.
 - 3 August 2021: Final submission deadline for agents.
 - 10 August 2021: Submission deadline for short summary about algorithms / techniques used by the agent.
 - 17-20 August 2021: IEEE CoG 2021 + Announcements of results.
