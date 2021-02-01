@@ -73,7 +73,7 @@ For the IEEE CoG 2021 edition of the Ludii AI competition, all games will be gua
 These constraints are expected to be relaxed in future editions or tracks of the competition. Note that we may still have asymmetric games, and we may have games with a "Swap rule" (where after the first move, the second player may opt to switch roles and steal the opening move).
 
 ## Implementing Agents
-All agents are expected to extend the “AI” abstract class provided by Ludii. At this point in time, this means that agents are expected to be implemented in Java. We hope to make a similar Python API available prior to the competition, but cannot currently give any indication of when this will be ready or guarantee that it will be supported by the Ludii AI Competition at IEEE CoG 2020. 
+All agents are expected to extend the “AI” abstract class provided by Ludii. At this point in time, this means that agents are expected to be implemented in Java. We hope to make a similar Python API available prior to the competition, but cannot currently give any indication of when this will be ready or guarantee that it will be supported by the Ludii AI Competition at IEEE CoG 2021. 
 
 During the competition, agents will have access to a “Forward Model” of the game they are playing at that time. Whenever a new game is started, all agents will get some time to initialise. They will have access to the “Game” object (containing e.g. the rules of the game), and they will be told which role they are expected to play (i.e. Player 1 or Player 2).
 
