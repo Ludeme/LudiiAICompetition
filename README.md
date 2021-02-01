@@ -104,7 +104,7 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 - The win-rate for each agent across all matchups that it plays will determine its final ranking. Draws count as half a win for each of the two players.
 - For each of the 20 games, the competition organisers will pick an amount of thinking time between 1 and 5 seconds. All entries in all matchups using this game are allowed to use this many seconds per move. Agents that fail to return a move, or return an illegal move, within this period will have a random move made for them. 
 - Agents will have 30 seconds to initialise themselves between when a new game starts, and when they must make their first move (setup time).
-- The process running your agent will have 4GB RAM available.
+- The process running your agent will have 3GB RAM available.
 - All entries must function on Linux.
 - Entries are permitted to write files to their current working directory, but these will not be preserved between match-ups (i.e. no learning from game-to-game).
 - We will enforce a turn limit, after which matchups are declared a draw, to avoid infinitely-long matchups. This limit will be sufficiently high that it shouldn't be reached by "reasonable" play. The forward model provided to agents will be aware of this limit, which means that forward planning agents will automatically be aware of the existence of this limit without requiring any extra implementation effort for entrants.
