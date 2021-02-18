@@ -43,7 +43,7 @@ that will be used for the competition at CoG 2020 at 0.9.3**.
 ## Summary
 The Ludii AI Competition is a **general game playing competition** focussed on developing agents that can play a wide variety of board, card, dice and tile games. This competition will use Ludii, a recently developed general game system, to provide the necessary games and API. Games will be provided in the Ludii .lud game description format. The current version of Ludii includes over 500 games, with new games being added frequently. Submitted agents will play against all other competition entrants on a selected set of 20 games in a round-robin format. These games will not be named or provided to the agents beforehand. Agents will have a set amount of time, typically a few seconds, to make each move. Agents that fail to return a move, or return an illegal move, within this period will have a random move made for them. The agent that achieves the highest average win-rate across all games will win the competition.
 
-A brief tutorial video of how to run an AI agent in ludii is available at https://www.youtube.com/watch?v=8MhBMEXO8IU
+A brief tutorial video of how to run an AI agent in Ludii is available at https://www.youtube.com/watch?v=8MhBMEXO8IU
 
 ## Important Links
 - Main Ludii website: https://ludii.games/
