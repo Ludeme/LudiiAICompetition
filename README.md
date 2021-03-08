@@ -35,6 +35,7 @@ that will be used for the competition at CoG 2020 at 0.9.3**.
 - [Implementing Agents](#implementing-agents)
 - [Submitting Agents](#submitting-agents)
 - [Competition Rules](#competition-rules)
+- [Competition Prizes](#competition-prizes)
 - [Contact Info](#contact-info)
 - [Acknowledgements](#acknowledgements)
 
@@ -110,6 +111,12 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 - All entries must function on Linux.
 - Entries are permitted to write files to their current working directory, but these will not be preserved between match-ups (i.e. no learning from game-to-game).
 - We will enforce a turn limit, after which matchups are declared a draw, to avoid infinitely-long matchups. This limit will be sufficiently high that it shouldn't be reached by "reasonable" play. The forward model provided to agents will be aware of this limit, which means that forward planning agents will automatically be aware of the existence of this limit without requiring any extra implementation effort for entrants.
+
+## Competition Prizes
+- The IEEE CIS Competition Subcommittee has provided $1000USD in prize money.
+- 1st Place will receive $500, 2nd place will receive $300, and 3rd place will receive $200.
+- Each entrant may only win a single prize, and must outperform a random agent.
+- The full prize  distribution policy can be found at https://cis.ieee.org/images/files/Documents/competitions/prize-dist-policy.pdf
 
 ## Contact Info
 The preferred way to contact us with any suggestions or questions about the competition is to use the section for competitions on the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=26). This also enables other interested people to see the responses.
