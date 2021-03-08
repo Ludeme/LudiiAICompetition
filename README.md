@@ -115,7 +115,7 @@ To submit an agent, send an email to ludii.games@gmail.com containing:
 ## Competition Prizes
 - The IEEE CIS Competition Subcommittee has provided $1000USD in prize money.
 - 1st Place will receive $500, 2nd place will receive $300, and 3rd place will receive $200.
-- Each entrant may only win a single prize, and must outperform a random agent.
+- Each entrant may only win a single prize, and must outperform a baseline UCT agent.
 - The full prize  distribution policy can be found at https://cis.ieee.org/images/files/Documents/competitions/prize-dist-policy.pdf
 
 ## Contact Info
