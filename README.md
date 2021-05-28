@@ -54,6 +54,7 @@ A brief tutorial video of how to run an AI agent in Ludii is available at https:
 - Ludii competition forum: https://ludii.games/forums/forumdisplay.php?fid=26
 - IEEE CoG competitions website: https://ieee-cog.org/2021/index.html#competitions_section
 - Ludii Tutorials: https://ludiitutorials.readthedocs.io/
+- Ludii source code repository: https://github.com/Ludeme/Ludii
 
 ## Important Dates
 - 28 May 2021: Submission deadline for Competition Papers at IEEE CoG 2021: http://ieee-cog.org/2021/cfp  (note that papers about entries to this competition are eligible).
