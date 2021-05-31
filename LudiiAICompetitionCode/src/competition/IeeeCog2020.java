@@ -2,7 +2,7 @@ package competition;
 
 import game.Game;
 import main.FileHandling;
-import util.GameLoader;
+import other.GameLoader;
 
 /**
  * Some utility methods for the Ludii AI Competition planned
