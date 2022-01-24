@@ -146,7 +146,7 @@ All the results of the kilothon would also be available to you in a csv next to 
   
 ### General Game Playing (GGP) track
 
-During the GGP track, all participants will play against 4 other competition entrants (selecting randomly on all the other participants) on a selected set of 6 two-players games in a round-robin format (playing each role once). These games will not be named or provided to the agents beforehand. 
+During the GGP track, the tournament will be done in Swiss style in 6 rounds. In each round, a new game will be used and each participant will face another participant. These games will not be named or provided to the agents beforehand. 
   
 Each agent will have 30 minutes of thinking for the full game, this time can be allocated as wished. If the full time is used but the game is still not over, this participant will automatically lose the match. The agent that achieves the highest average win-rate across all games will win the competition. The win-rate for each agent across all matchups that it plays will determine its final ranking. Draws count as half a win for each of the two players.
   
@@ -161,7 +161,7 @@ Note: Depending on the number of submissions we receive, the number of games pla
   
 ### Learning track
 
-This track is following the same rules of the GGP except the games are going to be revealed during February and March. This allows the participants to prepare for the competition in (for example) making their agent learn more about these games before the competition. On the 20 games provided during these months, only 6 are going to be used for the actual competition. These games are all selected by the organisers of the competition.
+This track is following the same rules of the GGP except the games are going to be revealed during February and March. This allows the participants to prepare for the competition in (for example) making their agent learn more about these games before the competition.  These games are all selected by the organisers of the competition.
 
   
   
