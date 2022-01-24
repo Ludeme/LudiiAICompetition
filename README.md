@@ -146,9 +146,9 @@ All the results of the kilothon would also be available to you in a csv next to 
   
 ### General Game Playing (GGP) track
 
-During the GGP track, the tournament will be done in Swiss style in 6 rounds. In each round, a new game will be used and each participant will face another participant. These games will not be named or provided to the agents beforehand. 
+During the GGP track, the tournament will be done in Swiss style in 6 rounds (playing each role once). In each round, a new game will be used and each participant will face another participant. These games will not be named or provided to the agents beforehand. 
   
-Each agent will have 30 minutes of thinking for the full game, this time can be allocated as wished. If the full time is used but the game is still not over, this participant will automatically lose the match. The agent that achieves the highest average win-rate across all games will win the competition. The win-rate for each agent across all matchups that it plays will determine its final ranking. Draws count as half a win for each of the two players.
+Each agent will have 30 minutes of thinking for the full game, this time can be allocated as wished. If the full time is used but the game is still not over, this participant will automatically lose the match. 
   
 All the matches will have to be played thanks to the remote mode of Ludii (requiring the participant to register on the forum, to get a login to connect yourself to the remote mode of Ludii).
 All the matches will be played during the CG/IJCAI conference (23-29 July). The different matches will be announced each morning by the organizing team and the matches run during the day. All agents are required to stay online during the competition to be able to run the matches with their allocated opponents. 
