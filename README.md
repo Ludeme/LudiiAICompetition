@@ -146,16 +146,16 @@ All the results of the kilothon would also be available to you in a csv next to 
   
 ### General Game Playing (GGP) track
 
-During the GGP track, the tournament will be done in Swiss style in 6 rounds (playing each role once). In each round, a new game will be used and each participant will face another participant. These games will not be named or provided to the agents beforehand. 
+During the GGP track, the tournament will be done in Swiss style over 6 rounds. In each round, a new game will be used and each participant will face another participant, playing the new game twice (once for each role). These games will not be named or provided to the agents beforehand. 
   
-Each agent will have 30 minutes of thinking for the full game, this time can be allocated as wished. If the full time is used but the game is still not over, this participant will automatically lose the match. 
+Each agent will have 30 minutes of thinking for the full match, this time can be allocated as wished. If the full time is used but the match is still not over, this participant will automatically lose. 
   
-All the matches will have to be played thanks to the remote mode of Ludii (requiring the participant to register on the forum, to get a login to connect yourself to the remote mode of Ludii).
+All the matches will have to be played with the remote mode of Ludii (requiring the participant to register on the forum, to get a login to connect yourself to the remote mode of Ludii).
 All the matches will be played during the CG/IJCAI conference (23-29 July). The different matches will be announced each morning by the organizing team and the matches run during the day. All agents are required to stay online during the competition to be able to run the matches with their allocated opponents. 
   
 On this track, all the two-players games in Ludii following the requirement of (#competition-games) can be used.  
   
-Note: Depending on the number of submissions we receive, the number of games played could be changed. 
+Note: Depending on the number of submissions we receive, the number of competition rounds may be changed. 
   
   
   
