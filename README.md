@@ -86,7 +86,6 @@ Entrants can not just use direct copies of the open-source Ludii AIs! If they us
 The competition will use a set of games. These will all be implemented in Ludii’s .lud format, and run using Ludii. 
 
 For the CG 2022 edition of the Ludii AI competitions, all games will be guaranteed to be:
-- Zero-sum
 - Adversarial
 - Turn-based
 - Sequential
@@ -153,7 +152,7 @@ Each agent will have 30 minutes of thinking for the full match, this time can be
 All the matches will have to be played with the remote mode of Ludii (requiring the participant to register on the forum, to get a login to connect yourself to the remote mode of Ludii).
 All the matches will be played during the CG/IJCAI conference (23-29 July). The different matches will be announced each morning by the organizing team and the matches run during the day. All agents are required to stay online during the competition to be able to run the matches with their allocated opponents. 
   
-On this track, all the two-players games in Ludii following the requirement of (#competition-games) can be used.  
+On this track, all the two-players games in Ludii following the requirement of ([Competition Games](#competition-games)) can be used.  
   
 Note: Depending on the number of submissions we receive, the number of competition rounds may be changed. 
   
