@@ -28,7 +28,7 @@ To stay up-to-date with any new announcements about Ludii or the Ludii AI compet
 ---
 
 ## Summary
-The Ludii AI Competitions are **general game playing competitions** focussed on developing agents that can play a wide variety of board, dice and tile games. These competitions will use Ludii, a general game system, to provide the necessary games and API. Games will be provided in the Ludii .lud game description format. The current version (1.3.1) of Ludii includes over 1,000 games, with new games being added frequently. 
+The Ludii AI Competitions are **general game playing competitions** focussed on developing agents that can play a wide variety of board games. These competitions will use Ludii, a general game system, to provide the necessary games and API. Games will be provided in the Ludii .lud game description format. The current version (1.3.1) of Ludii includes over 1,000 games, with new games being added frequently. 
 
 Three tracks are proposed:
 - Kilothon: Best utility obtained on more than 1,000 games against UCT.
