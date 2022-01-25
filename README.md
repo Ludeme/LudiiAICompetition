@@ -117,7 +117,7 @@ Whenever an agent is expected to make a move, it can:
 The kilothon is a new type of AI challenge in which the participants are not competing directly against each other but trying to win the maximum of games against a simple UCT (Upper Confidence Tree) agent. 
 
 For each play, only one minute of ("smart") thinking time is allocated to the challenger. After this time, the agent is playing randomly until the end of the game. The participants can distribute this minute of thinking time as they wish to their agents.
-The same rule is applied to UCT and during this minute, 1 second of thinking time per move is used.
+The same rule is applied to UCT and during this minute, 0.5 second of thinking time per move is used.
 
 All challengers are representing the role of player 1, the UCT agent is representing the role of player 2 and if the game has more than 2 players, all the other roles are played randomly.
 
