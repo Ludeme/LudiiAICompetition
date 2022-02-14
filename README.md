@@ -188,4 +188,4 @@ This repository is part of the European Research Council-funded Digital Ludeme P
   
 <a href="https://dauphine.psl.eu/"><img src="./resources/logo_dauphine.svg" title="Dauphine PSL Université Paris" alt="DAUPHINE PSL Logo" height="300"></a>
   
-<a href="https://www.lamsade.dauphine.fr/"><img src="./resources/lamsade.png" title="LAMSADE" alt="LAMSADE Logo" height="300"></a>  
+<a href="https://www.lamsade.dauphine.fr/"><img src="./resources/lamsade.png" title="LAMSADE" alt="LAMSADE Logo" height="200"></a>  
