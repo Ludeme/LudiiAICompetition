@@ -183,3 +183,5 @@ These competitions are run by the members of the Digital Ludeme Project (http://
 This repository is part of the European Research Council-funded Digital Ludeme Project (ERC Consolidator Grant \#771292), being run by Cameron Browne at Maastricht University's Department of Data Science and Knowledge Engineering. All prizes are funded by the PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) thanks to Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/).
 
 <a href="https://erc.europa.eu/"><img src="./resources/LOGO_ERC-FLAG_EU_.jpg" title="Funded by the European Research Council" alt="European Research Council Logo" height="384"></a>
+  
+<a href="https://prairie-institute.fr/"><img src="./resources/cropped-logo-PRAIRIE.jpg" title="Funded by the PRAIRIE" alt="PRAIRIE Logo" height="384"></a>
