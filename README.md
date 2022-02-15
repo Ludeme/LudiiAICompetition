@@ -85,7 +85,7 @@ Entrants can not just use direct copies of the open-source Ludii AIs! If they us
 ## Competition Games
 The competition will use a set of games. These will all be implemented in Ludii’s .lud format, and run using Ludii. 
 
-For the CG 2022 edition of the Ludii AI competitions, all games will be guaranteed to be:
+For the 2022 edition of the Ludii AI competitions, all games will be guaranteed to be:
 - Adversarial
 - Turn-based
 - Sequential
