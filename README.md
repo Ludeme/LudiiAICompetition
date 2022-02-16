@@ -68,7 +68,7 @@ Entrants can not just use direct copies of the open-source Ludii AIs! If they us
 - Ludii competition forum: https://ludii.games/forums/forumdisplay.php?fid=26
 - Ludii Tutorials: https://ludiitutorials.readthedocs.io/
 - Ludii source code repository: https://github.com/Ludeme/Ludii
-- A brief tutorial video of how to run an AI agent in Ludii is available at https://www.youtube.com/watch?v=8MhBMEXO8IU (ERIC: TO REDO AND UPDATE)
+- Ludii Video Tutorial to run an external AI agent: https://www.youtube.com/watch?v=iWXAQZ1p_6c
 
 
 
