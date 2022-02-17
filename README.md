@@ -69,7 +69,7 @@ Entrants can not just use direct copies of the open-source Ludii AIs! If they us
 - Ludii Tutorials: https://ludiitutorials.readthedocs.io/
 - Ludii source code repository: https://github.com/Ludeme/Ludii
 - Ludii Video Tutorial to run an external AI agent: https://www.youtube.com/watch?v=iWXAQZ1p_6c
-
+- Kilothon Tutorial: https://youtu.be/bEdJqyUQ1Hg
 
 
 
@@ -121,7 +121,7 @@ The same rule is applied to UCT and during this minute, 0.5 second of thinking t
 
 All challengers are representing the role of player 1, the UCT agent is representing the role of player 2 and if the game has more than 2 players, all the other roles are played randomly.
 
-On this track, all the games in Ludii following the requirement of (#competition-games) are used (1,058 games on version 3.1.0).
+On this track, all the games in Ludii following the requirement of (#competition-games) are used (1,058 games on version 3.2.0).
 
 In the rare case of equality between 2 agents, the tiebreak is to compare the total number of decision moves made by the agents.
 
@@ -132,7 +132,7 @@ To run the kilothon, the participants are required  to implement a main method i
 The name of the agent would have to be the name of the agent implemented by the participant.
 Example: Kilothon.main(new String[]{"login", "AgentName"});
 
-For information about how to run a kilothon from an agent made with the Java API, check this video: <TODO>
+For information about how to run a kilothon from an agent made with the Java API, check this video: https://youtu.be/bEdJqyUQ1Hg
   
 When a game is over during the kilothon, the rank of P1 and its obtained utility (between -1 and 1) are stored. And when all the games are over, all the results of the challenger (P1) are sent by mail to us and the sentence "Mail successfully sent! Congratulations to have played a complete kilothon!" is printed in the terminal.
 All the results of the kilothon would also be available to you in a csv next to the jar run.
