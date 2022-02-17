@@ -70,6 +70,7 @@ Entrants can not just use direct copies of the open-source Ludii AIs! If they us
 - Ludii source code repository: https://github.com/Ludeme/Ludii
 - Ludii Video Tutorial to run an external AI agent: https://www.youtube.com/watch?v=iWXAQZ1p_6c
 - Kilothon Tutorial: https://youtu.be/bEdJqyUQ1Hg
+- Ludii Video Tutorial to play remotely with an AI agent: https://youtu.be/vl69mx7p7zM
 
 
 
@@ -149,7 +150,9 @@ During the GGP track, the tournament will be done in Swiss style over 6 rounds. 
   
 Each agent will have 30 minutes of thinking for the full match, this time can be allocated as wished. If the full time is used but the match is still not over, this participant will automatically lose. 
   
-All the matches will have to be played with the remote mode of Ludii (requiring the participant to register on the forum, to get a login to connect yourself to the remote mode of Ludii).
+All the matches will have to be played with the remote mode of Ludii (requiring the participant to register on the forum, to get a login to connect yourself to the remote mode of Ludii). For a short tutorial, see this video: https://youtu.be/vl69mx7p7zM
+
+
 All the matches will be played during the 25th Computer Olympiad (End of July). The different matches will be announced each morning by the organizing team and the matches run during the day. All agents are required to stay online during the competition to be able to run the matches with their allocated opponents. 
   
 On this track, all the two-players games in Ludii following the requirement of ([Competition Games](#competition-games)) can be used.  
