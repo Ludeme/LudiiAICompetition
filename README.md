@@ -123,7 +123,7 @@ The same rule is applied to UCT and during this minute, 0.5 second of thinking t
 
 All challengers are representing the role of player 1, the UCT agent is representing the role of player 2 and if the game has more than 2 players, all the other roles are played randomly.
 
-On this track, all the games in Ludii following the requirement of (#competition-games) are used (1,058 games on version 1.3.2).
+On this track, all the games in Ludii following the requirement of (#competition-games) are used (1,094 games on version 1.3.2).
 
 In the rare case of equality between 2 agents, the tiebreak is to compare the total number of decision moves made by the agents.
 
