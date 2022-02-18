@@ -195,3 +195,5 @@ This repository is part of the European Research Council-funded Digital Ludeme P
 <a href="https://www.lamsade.dauphine.fr/"><img src="./resources/lamsade.png" title="LAMSADE" alt="LAMSADE Logo" height="200"></a>  
     
 <a href="https://anr.fr/"><img src="./resources/anr-logo-2021@2x.png" title="ANR" alt="ANR Logo" height="200"></a>  
+
+<a href="https://fr.wikipedia.org/wiki/Investissements_d%27avenir"><img src="./resources/Logo-Investir_l'avenir.png" title="Investir l'Avenir" alt="ANR Investir l'Avenir" height="200"></a>  
