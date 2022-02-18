@@ -8,7 +8,7 @@
 
 ## News
 To stay up-to-date with any new announcements about Ludii or the Ludii AI competitions, keep an eye out on:
-1. Our twitter: https://twitter.com/ludiigames
+1. Our Twitter: https://twitter.com/ludiigames
 2. Our forums: https://ludii.games/forums/forumdisplay.php?fid=26
 
 ---
