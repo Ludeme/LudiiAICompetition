@@ -7,7 +7,7 @@
 
 
 ## News
-To stay up-to-date with any new announcements about Ludii or the Ludii AI competitions, keep an eye out on:
+To stay up-to-date with any new announcements about Ludii or the Ludii AI Competition, please check:
 1. Our Twitter: https://twitter.com/ludiigames
 2. Our forums: https://ludii.games/forums/forumdisplay.php?fid=26
 
@@ -28,33 +28,34 @@ To stay up-to-date with any new announcements about Ludii or the Ludii AI compet
 ---
 
 ## Summary
-The Ludii AI Competitions are **general game playing competitions** focussed on developing agents that can play a wide variety of board games. These competitions will use Ludii, a general game system, to provide the necessary games and API. Games will be provided in the Ludii .lud game description format. The version used for this competition (1.3.2) of Ludii includes over 1,000 games. 
+The Ludii AI Competition involves **general game playing events** focussed on developing agents that can play a wide variety of board games. The events use the Ludii general game system to provide the necessary games and API. Games will be provided in the Ludii game description format (*.lud). The version used for this competition (1.3.2) of Ludii includes over 1,000 games.
 
-Three tracks are proposed:
+Three events are proposed:
 - Kilothon: Best utility obtained on more than 1,000 games against UCT.
 - General Game Playing (GGP): Competiton on games present or not in our library.
 - Learning: A set of games are announced months before the actual competition, the agents are invited to learn before competing.
 
-A track is going to run if at least 3 participants take part in it.
+Each event will run if at least 3 participants take part in it.
 
 
 
 
 ## Competition Prizes
-- This year, a total prize of **9,000 euros** for the three tracks is funded by Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/) with his PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) chair.
-- For each track, the winner will receive €3,000. The winners of each track are also going to be invited to write a paper for the first Ludii/DLP conference (happening in 2023).
+- This year, a total prize of **9,000 euros** for the three events is funded by Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/) with his PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) chair.
+- For each event, the winner will receive €3,000. The winners of each event are also going to be invited to write a paper for the first Ludii/DLP conference (happening in 2023).
 - Each entrant can enter all three events, but only one agent per event.
 
 
 
 
 ## Participation
-To participate in any of the tracks, it is necessary to send us an email to ludii.games@gmail.com to register. The required information is your first and last name, the name of your agent and an email to contact you. It would also really be appreciated if you can register to the Ludii forum and give us your login, but this is not required (https://ludii.games/forums/member.php?action=register). As soon as it would be possible for you, a short description (an abstract) of your agent would also be appreciated if shared with us.
+To participate in any of the events, please send an email to ludii.games@gmail.com to register, with your first and last name, the name of your agent and a contact email address. It would also be appreciated if you register on the Ludii forum and provide your username, but this is not required (https://ludii.games/forums/member.php?action=register). Please also send us a short description (an abstract) of your agent before the event, if you are able to.
 
-On all tracks, agents are going to be run on your own machine. That's why it would also really be appreciated if you are sharing the configuration used to run your agent.
-All agents should be implemented thanks to the Ludii Java AI API or the Ludii Python AI API (however if a participant can implement a wrapper to Ludii in any other languages, this is also allowed.). We also encourage entrants (especially winners) to make their source code available after the competition or to share it (privately) with us (this is not a requirement). We will not share this source code with third parties, but do encourage entrants to open-source their entries if possible!
+The agents for all events will be run on your own machine, so it would be appreciated if you tell us the configuration you are using.
 
-Entrants can not just use direct copies of the open-source Ludii AIs! If they use Ludii AIs as a basis, an abstract description of the agent should be provided and should describe how is different to Ludii AI.
+All agents should be implemented according to the Ludii Java AI API or the Ludii Python AI API (however if a participant can implement a wrapper to Ludii in any other languages, this is also allowed.). We also encourage entrants (especially winners) to make their source code available after the competition or to share it (privately) with us (this is not a requirement). We will not share this source code with third parties, but do encourage entrants to provide their work as open source if possible.
+
+Entrants can not just use direct copies of the open source Ludii AIs! If they use Ludii AIs as a basis, an abstract description of the agent should be provided and should describe how it is different to Ludii AI.
 
 
 
@@ -77,15 +78,15 @@ Entrants can not just use direct copies of the open-source Ludii AIs! If they us
 
 ## Important Dates
 - March/April 2022: Learning track games will be announced over March and April.
-- February-July 2022: Possibility to run agents on the kilothon track.
-- End of July 2022: During the 25th Computer Olympiad (http://icga.org/) happening around the IJCAI dates (https://ijcai-22.org/) at Vienna, Run of the GGP track and the learning track + announcement of the results.
+- February-July 2022: Possibility to run agents on the Kilothon track.
+- End of July 2022: The GGP and Learning tracks will be run as part of the 25th Computer Olympiad (http://icga.org/), which will be held in conjunction with IJCAI 2022 (https://ijcai-22.org/) in July. The results will be announced at the conclusion of the Computer Olympiad.
 
 
 
 
 
 ## Competition Games
-The competition will use a set of games. These will all be implemented in Ludii’s .lud format, and run using Ludii. 
+The competition will use a set of games. These will all be implemented in Ludii’s *.lud format, and run using Ludii. 
 
 For the 2022 edition of the Ludii AI competitions, all games will be guaranteed to be:
 - Adversarial
@@ -114,44 +115,41 @@ Whenever an agent is expected to make a move, it can:
 
 ## Competition Rules
 
-### Kilothon track
+### Kilothon Event
 
-The kilothon is a new type of AI challenge in which the participants are not competing directly against each other but trying to win the maximum of games against a simple UCT (Upper Confidence Tree) agent. 
+The kilothon is a new type of AI challenge in which participants do not compete directly against each other but try to win the maximum of games against a simple UCT (Upper Confidence Tree) agent for over 1,000 games in the Ludii database. 
 
-For each play, only one minute of ("smart") thinking time is allocated to the challenger. After this time, the agent is playing randomly until the end of the game. The participants can distribute this minute of thinking time as they wish to their agents.
-The same rule is applied to UCT and during this minute, 0.5 second of thinking time per move is used.
+For each game, only one minute of ("smart") thinking time is allocated to the challenger. After this time, the agent will be forced to play randomly until the end of the game. Participants can distribute this minute of thinking time as they wish for their agent. The same rule is applied to the UCT agent, which will use 0.5s of thinking time per move during this "smart" minute and then play randomly.
 
-All challengers are representing the role of player 1, the UCT agent is representing the role of player 2 and if the game has more than 2 players, all the other roles are played randomly.
+Challengers take the role of Player 1 in all games, with the UCT agent taking the role of Player 2 (and all other roles if the game has more than two players).
 
-On this track, all the games in Ludii following the requirement of (#competition-games) are used (1,094 games on version 1.3.2).
+All Ludii games annotated as (#competition-games) will be used in the Kilothon. This comes to 1,094 games in version 1.3.2.
 
-In the rare case of equality between 2 agents, the tiebreak is to compare the total number of decision moves made by the agents.
+In the unlikely case that two entrants tie on success rate, the total number of decision moves made by each agent will be used to break the tie.
 
-To run the kilothon, the participants are required  to implement a main method in their code calling the following method **Kilothon.main(final String[] args);** with as arguments:
-- login
+To run the Kilothon, implement a main method in your code calling the following method **Kilothon.main(final String[] args);** with arguments:
+- username
 - agent name
 
-The name of the agent would have to be the name of the agent implemented by the participant.
-Example: Kilothon.main(new String[]{"login", "AgentName"});
+The name of the agent would have to be the name of the agent implemented by the participant, e.g. Kilothon.main(new String[]{"fred_smith", "Freds_Agent"});
 
-For information about how to run a kilothon from an agent made with the Java API, check this video: https://youtu.be/bEdJqyUQ1Hg
+For information on running a Kilothon from an agent made with the Java API, check this video: https://youtu.be/bEdJqyUQ1Hg
   
-When a game is over during the kilothon, the rank of P1 and its obtained utility (between -1 and 1) are stored. And when all the games are over, all the results of the challenger (P1) are sent by mail to us and the sentence "Mail successfully sent! Congratulations to have played a complete kilothon!" is printed in the terminal.
-All the results of the kilothon would also be available to you in a csv next to the jar run.
+After each Kilothon game is played, the rank of Player 1 and its obtained utility score (between -1 and 1) are stored. The Kilothon ends when all games are completed, and the results of your agent (i.e. Player 1) will be sent by mail to us and the message "Mail successfully sent! Congratulations to have played a complete kilothon!" will be printed to your terminal. The Kilothon results should also be available to you in a *.csv in the same folder as the *.jar file run.
   
-  **<b>Be careful</b>, a full kilothon is taking close to a day to play all the games and to send the results to us, do not stop the kilothon before seeing this sentence printed in your terminal. Moreover, because the results are sent to us by mail, an internet connection is required during a kilothon. **
+  **<b>Be careful</b>, a full Kilothon takes close to a day to complete. Do not stop the Kilothon before seeing the completion message printed to your terminal! Also, ensure that your machine has a working internet connection when your Kilotohon completes or your results will not be sent to us. **
 
   
   
   
   
-### General Game Playing (GGP) track
+### General Game Playing (GGP) Event
 
-During the GGP track, the tournament will be done in Swiss style over 6 rounds. In each round, a new game will be used and each participant will face another participant, playing the new game twice (once for each role). These games will not be named or provided to the agents beforehand. 
+The General Game Playing (GGP) event involves a Swiss tournament style run over six rounds. In each round, a new game will be provided and each participant will face another participant, playing the new game twice (each starting once as Player 1). The games to be played will not be named or provided to the agents beforehand. 
   
-Each agent will have 30 minutes of thinking for the full match, this time can be allocated as wished. If the full time is used but the match is still not over, this participant will automatically lose. 
+Each agent will have 30 minutes of thinking per match, which can be allocated as desired. If this time expires before the the match ends, then the offfending agent immediately loses. 
   
-All the matches will have to be played with the remote mode of Ludii (requiring the participant to register on the forum, to get a login to connect yourself to the remote mode of Ludii). For a short tutorial, see this video: https://youtu.be/vl69mx7p7zM. More information about the remote mode are also in the User Guide: https://ludii.games/downloads/LudiiUserGuide.pdf
+All matches must be played using the remote mode of Ludii, which requires participants to register on the Ludii forum and log in to connect using Ludii's "remote" mode. See this video for a short tutorial: https://youtu.be/vl69mx7p7zM. The Ludii User Guide also provides more details about using the remote mode: https://ludii.games/downloads/LudiiUserGuide.pdf
 
 
 All the matches will be played during the 25th Computer Olympiad (End of July). The different matches will be announced each morning by the organizing team and the matches run during the day. All agents are required to stay online during the competition to be able to run the matches with their allocated opponents. 
@@ -162,7 +160,7 @@ Note: Depending on the number of submissions we receive, the number of competiti
   
   
   
-### Learning track
+### Learning Event
 
 This track is following the same rules of the GGP except the games are going to be revealed during March and April. This allows the participants to prepare for the competition in (for example) making their agent learn more about these games before the competition.  These games are all selected by the organisers of the competition.
 
