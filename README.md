@@ -169,7 +169,7 @@ The Learning Event follows the same rules of the GGP Event above, except that th
 ## Contact Info
 The Ludii team is: Cameron Browne, Eric Piette, Matthew Stephenson and Dennis Soemers.
 
-The preferred way to contact us with any suggestions or questions about the competition is to use the section for competitions on the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=26). This also enables other interested people to see the responses.
+The preferred way to contact us with any suggestions or questions about the competition is through the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=26). This also enables other interested people to see the responses.
 
 Alternatively, suggestions and questions may be emailed to: ludii.games@gmail.com 
 
