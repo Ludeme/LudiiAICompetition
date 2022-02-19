@@ -41,9 +41,9 @@ Each event will run if at least 3 participants take part in it.
 
 
 ## Competition Prizes
-- This year, a total prize of **9,000 euros** for the three events is funded by Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/) with his PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) chair.
-- For each event, the winner will receive €3,000. The winners of each event are also going to be invited to write a paper for the first Ludii/DLP conference (happening in 2023).
-- Each entrant can enter all three events, but only one agent per event.
+- A total prize pool of **€9,000** for the three events is funded by Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/) through his PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) chair.
+- The winner of each event will receive €3,000. The winners will also be invited to write a paper for the first Ludii/DLP conference (happening in 2023).
+- Participants can enter all three events, but can only enter one agent per event.
 
 
 
