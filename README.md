@@ -135,7 +135,7 @@ The name of the agent would have to be the name of the agent implemented by the 
 
 For information on running a Kilothon from an agent made with the Java API, check this video: https://youtu.be/bEdJqyUQ1Hg
   
-After each Kilothon game is played, the rank of Player 1 and its obtained utility score (between -1 and 1) are stored. The Kilothon ends when all games are completed, and the results of your agent (i.e. Player 1) will be sent by mail to us and the message "Mail successfully sent! Congratulations to have played a complete kilothon!" will be printed to your terminal. The Kilothon results should also be available to you in a *.csv in the same folder as the *.jar file run.
+After each Kilothon game is played, the rank of Player 1 and its obtained utility score (between -1 and 1) are stored. The Kilothon ends when all games are completed, and the results of your agent (i.e. Player 1) will be sent by mail to us and the message "Mail successfully sent! Congratulations to have played a complete kilothon!" will be printed to your terminal. The Kilothon results should also be available to you in a *.csv file that will be written to the same folder in which the Ludii *.jar file was run.
   
   **<b>Be careful</b>, a full Kilothon takes close to a day to complete. Do not stop the Kilothon before seeing the completion message printed to your terminal! Also, ensure that your machine has a working internet connection when your Kilotohon completes or your results will not be sent to us. **
 
