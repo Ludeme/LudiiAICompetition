@@ -151,21 +151,18 @@ Each agent will have 30 minutes of thinking per match, which can be allocated as
   
 All matches must be played using the remote mode of Ludii, which requires participants to register on the Ludii forum and log in to connect using Ludii's "remote" mode. See this video for a short tutorial: https://youtu.be/vl69mx7p7zM. The Ludii User Guide also provides more details about using the remote mode: https://ludii.games/downloads/LudiiUserGuide.pdf
 
-
-All the matches will be played during the 25th Computer Olympiad (End of July). The different matches will be announced each morning by the organizing team and the matches run during the day. All agents are required to stay online during the competition to be able to run the matches with their allocated opponents. 
+All the matches will be played during the 25th Computer Olympiad (end of July). The match-ups for each round will be announced each morning by the organising team and the matches run during the day. All agents are required to remain online during the competition, so that opponents are able to play their matches. 
   
-On this track, all the two-players games in Ludii following the requirement of ([Competition Games](#competition-games)) can be used.  
+All games chosen for this event from the Ludii database will be two-player games annotated as ([Competition Games](#competition-games)).  
   
-Note: Depending on the number of submissions we receive, the number of competition rounds may be changed. 
+Note: The number of competition rounds may change depending on the number of entrants. 
   
   
   
 ### Learning Event
 
-This track is following the same rules of the GGP except the games are going to be revealed during March and April. This allows the participants to prepare for the competition in (for example) making their agent learn more about these games before the competition.  These games are all selected by the organisers of the competition.
+The Learning Event follows the same rules of the GGP Event above, except that the games to be used will be revealed beforehand over March and April. This allows participants to prepare for the competition and train their agents on the games beforehand. These games to be used will be chosen by the competition organisers.
 
-  
-  
   
   
   
@@ -174,7 +171,7 @@ The preferred way to contact us with any suggestions or questions about the comp
 
 Alternatively, suggestions and questions may be emailed to: ludii.games@gmail.com 
 
-These competitions are run by the members of the Digital Ludeme Project (http://ludeme.eu/people/).
+The Ludii AI Competition is run by the members of the Digital Ludeme Project (http://ludeme.eu/people/).
 
   
   
@@ -182,7 +179,7 @@ These competitions are run by the members of the Digital Ludeme Project (http://
   
 ## Acknowledgements
 
-This repository is part of the European Research Council-funded Digital Ludeme Project (ERC Consolidator Grant \#771292), being run by Cameron Browne at Maastricht University's Department of Data Science and Knowledge Engineering. All prizes are funded by the PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) thanks to Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/).
+This repository is part of the European Research Council-funded Digital Ludeme Project (ERC Consolidator Grant \#771292), run by Cameron Browne at Maastricht University's Department of Data Science and Knowledge Engineering. All prizes are funded by the PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) thanks to Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/).
 
 <a href="https://erc.europa.eu/"><img src="./resources/LOGO_ERC-FLAG_EU_.jpg" title="Funded by the European Research Council" alt="European Research Council Logo" height="384"></a>
   
