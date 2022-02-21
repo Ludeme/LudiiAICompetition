@@ -187,7 +187,7 @@ This repository is part of the European Research Council-funded Digital Ludeme P
   
 <a href="https://prairie-institute.fr/"><img src="./resources/cropped-logo-PRAIRIE.jpg" title="Funded by the PaRis Artificial Intelligence Research InstitutE" alt="PRAIRIE Logo" height="300"></a>
   
-<a href="https://dauphine.psl.eu/"><img src="./resources/logo_dauphine.svg" title="Dauphine PSL Université Paris" alt="DAUPHINE PSL Logo" height="300"></a>
+<a href="https://dauphine.psl.eu/"><img src="./resources/Dauphine.png.png" title="Dauphine PSL Université Paris" alt="DAUPHINE PSL Logo" height="300"></a>
   
 <a href="https://www.lamsade.dauphine.fr/"><img src="./resources/lamsade.png" title="LAMSADE" alt="LAMSADE Logo" height="200"></a>  
     
