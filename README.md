@@ -169,6 +169,7 @@ The games already announced are:
   
   
 ## Contact Info
+Main organiser: Eric Piette
 The Ludii team is: Cameron Browne, Eric Piette, Matthew Stephenson and Dennis Soemers.
 
 The preferred way to contact us with any suggestions or questions about the competition is through the Ludii forums (https://ludii.games/forums/forumdisplay.php?fid=26). This also enables other interested people to see the responses.
