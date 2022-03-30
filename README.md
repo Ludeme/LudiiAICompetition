@@ -79,7 +79,7 @@ Entrants can not just use direct copies of the open source Ludii AIs! If they us
 ## Important Dates
 - March/April 2022: Learning track games will be announced over March and April.
 - February-July 2022: Possibility to run agents on the Kilothon track.
-- End of July 2022: The GGP and Learning tracks will be run as part of the 25th Computer Olympiad (http://icga.org/), which will be held in conjunction with IJCAI 2022 (https://ijcai-22.org/) in July. The results will be announced at the conclusion of the Computer Olympiad.
+- 23-29 July 2022: The GGP and Learning tracks will be run (online) as part of the 25th Computer Olympiad (https://icga.org/?page_id=3468), which will be held in conjunction with IJCAI 2022 (https://ijcai-22.org/) in July. The results will be announced at the conclusion of the Computer Olympiad.
 
 
 
