@@ -167,6 +167,7 @@ The games already announced are:
 - Bashni: https://ludii.games/details.php?keyword=Bashni
 - Ploy: https://ludii.games/details.php?keyword=Ploy
 - Quoridor: https://ludii.games/details.php?keyword=Quoridor
+- Mini Wars: https://ludii.games/details.php?keyword=Mini%20Wars
   
   
   
