@@ -168,6 +168,7 @@ The games already announced are:
 - Ploy: https://ludii.games/details.php?keyword=Ploy
 - Quoridor: https://ludii.games/details.php?keyword=Quoridor
 - Mini Wars: https://ludii.games/details.php?keyword=Mini%20Wars
+- Plakoto: https://ludii.games/details.php?keyword=Plakoto
   
   
   
