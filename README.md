@@ -163,12 +163,13 @@ Note: The number of competition rounds may change depending on the number of ent
 
 The Learning Event follows the same rules of the GGP Event above, except that the games to be used will be revealed beforehand over March and April. This allows participants to prepare for the competition and train their agents on the games beforehand. These games to be used will be chosen by the competition organisers.
 
-The games already announced are:
+The games are:
 - Bashni: https://ludii.games/details.php?keyword=Bashni
 - Ploy: https://ludii.games/details.php?keyword=Ploy
 - Quoridor: https://ludii.games/details.php?keyword=Quoridor
 - Mini Wars: https://ludii.games/details.php?keyword=Mini%20Wars
 - Plakoto: https://ludii.games/details.php?keyword=Plakoto
+- Lotus: https://ludii.games/details.php?keyword=Lotus
   
   
   
