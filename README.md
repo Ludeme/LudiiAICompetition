@@ -189,7 +189,7 @@ The Ludii AI Competition is run by the members of the Digital Ludeme Project (ht
   
 ## Acknowledgements
 
-This repository is part of the European Research Council-funded Digital Ludeme Project (ERC Consolidator Grant \#771292), run by Cameron Browne at Maastricht University's Department of Data Science and Knowledge Engineering. All prizes are funded by the PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) thanks to Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/).
+This repository is part of the European Research Council-funded Digital Ludeme Project (ERC Consolidator Grant \#771292), run by Cameron Browne at Maastricht University's Department of Advanced Computing Sciences. All prizes are funded by the PaRis Artificial Intelligence Research InstitutE (PR[AI]RIE: https://prairie-institute.fr/) thanks to Tristan Cazenave (https://www.lamsade.dauphine.fr/~cazenave/).
 
 <a href="https://erc.europa.eu/"><img src="./resources/LOGO_ERC-FLAG_EU_.jpg" title="Funded by the European Research Council" alt="European Research Council Logo" height="384"></a>
   
