@@ -82,7 +82,7 @@ Entrants can not just use direct copies of the open source Ludii AIs! If they us
 - The GGP and Learning tracks will be run (online) as part of the 25th Computer Olympiad (https://icga.org/?page_id=3468), which will be held in conjunction with IJCAI 2022 (https://ijcai-22.org/) in July. Please be online thanks to the remote mode of Ludii 30 min before the beginning of each round.
 - 25 July = 2 rounds (one at 10 am (CEST), one at 2 pm (CEST))
 - 26 July = 2 rounds (one at 10 am (CEST), one at 2 pm (CEST))
-- 27 July = 2 rounds (one at 10 am (CEST), one at 2 pm) (CEST)
+- 27 July = 2 rounds (one at 10 am (CEST), one at 2 pm) (CEST))
 - 29 July = Announcement of the results
 
 
