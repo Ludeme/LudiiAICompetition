@@ -22,6 +22,7 @@ To stay up-to-date with any new announcements about Ludii or the Ludii AI Compet
 - [Competition Games](#competition-games)
 - [Implementing Agents](#implementing-agents)
 - [Competition Rules](#competition-rules)
+- [Results](#results)
 - [Contact Info](#contact-info)
 - [Acknowledgements](#acknowledgements)
 
@@ -172,8 +173,34 @@ The games are:
 - Plakoto: https://ludii.games/details.php?keyword=Plakoto
 - Lotus: https://ludii.games/details.php?keyword=Lotus
   
-  
-  
+## Results
+
+The Ludii Competition 2022 is now over. Each track had a different number of registrations from many places around the world (Brazil, China, France, the Netherlands, UK).
+
+### The Kilothon track
+The Kilothon track had 7 official registrations. Only 4 of them were able to send valid results before the deadline of the competition. To rank the participants, the average of the utility (between -1 and 1) obtained on each game by each agent is used. Here is the final ranking:
+1) "CyprienMD" (with the "UBFM Contender" agent):  utility = 0.231
+2) "perrierludo" (with the "MCTimeS" agent):  utility = 0.031
+3) "Victor Putrich" (with the "SHOT-br" agent):  utility = -0.034
+4) "Jingyang Zeng" (with the "Zkealinvo" agent):  utility = -0.456
+
+Congratulations to Michel--Deletie Cyprien (CypriendMD) from the ENS de Lyon who won the 2022 edition of the Ludii Kilothon Competition!
+
+### GGP track
+The GGP track had 8 official registrations. 3 of these registrations joined the official Slack chat of the competition. One of them was disqualified because of the impossibility of being logged into the competition for the matches. Consequently, "perrierludo" and "Jingyang Zeng" competed on 6 games:
+- Upper Hand: https://ludii.games/details.php?keyword=Upper%20Hand
+- ConHex: https://ludii.games/details.php?keyword=ConHex
+- Shogun: https://ludii.games/details.php?keyword=Shogun
+- Tablut: https://ludii.games/details.php?keyword=Tablut
+- Oware: https://ludii.games/details.php?keyword=Oware
+- Shobu: https://ludii.games/details.php?keyword=Shobu
+
+After the first 5 rounds, both agents reached the same number of wins. But in the last round "Jingyang Zeng" won on both sides and won the 2022 edition of the Ludii GGP Competition! Congratulations!
+
+### Learning track
+The Learning track had 6 official registrations. Unfortunately, none of them joined the official Slack chat of the competition. Consequently, we invited "perrierludo" and "Jingyang Zeng" to also compete on the games of this track. After the 6 rounds, "Jingyang Zeng" won this track too. Congratulations!
+
+
 ## Contact Info
 Main organiser: Eric Piette
 The Ludii team is: Cameron Browne, Eric Piette, Matthew Stephenson and Dennis Soemers.
